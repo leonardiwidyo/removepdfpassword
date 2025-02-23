@@ -1,3 +1,5 @@
+# (c) Leonardi
+
 import sys
 from PyQt5.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout, QLabel, 
                            QMessageBox, QLineEdit, QPushButton, QListWidget, 
