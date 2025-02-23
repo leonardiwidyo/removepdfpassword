@@ -1,0 +1,1 @@
+pyinstaller --windowed --onefile --name="RemovePDFPassword" --icon=icons/removepdfpassword.png src/removepdfpassgui.py
