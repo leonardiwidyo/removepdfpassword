@@ -1,2 +1,2 @@
 # removepdfpassword
-macOS apps to remove PDF password
+macOS apps to remove PDF password (c) Leoonardi
